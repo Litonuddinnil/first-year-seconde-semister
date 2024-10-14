@@ -1,3 +1,9 @@
- This is an new text file.
-The new content needs to be replaced.
-new is a common word in this file.
+Hello, this is a text written into the file.
+C++ file handling is easy!
+After running the program, the file will look like this:
+Hello, this is a text written into the file.
+C++ file handling is easy!
+
+ 
+Appending a new line to the existing file.
+File handling in C++ is powerful!
