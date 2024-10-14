@@ -1,0 +1,2 @@
+3.	Write a C++ program to count the number of lines in a text file.
+4.	Write a C++ program to count the number of words in a text file.

@@ -1,0 +1,3 @@
+ This is an new text file.
+The new content needs to be replaced.
+new is a common word in this file.
